@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/724254566/ExoPlayerFilter-master.iml" filepath="$PROJECT_DIR$/.idea/modules/724254566/ExoPlayerFilter-master.iml" group="ExoPlayerFilter-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/455607026/epf.iml" filepath="$PROJECT_DIR$/.idea/modules/455607026/epf.iml" group="ExoPlayerFilter-master/epf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample.iml" group="ExoPlayerFilter-master/sample" />
+    </modules>
+  </component>
+</project>
